@@ -7,6 +7,9 @@ GitHub: https://github.com/jayhs0
 # Weather App (PyQt5)
 
 A simple desktop weather application built with **Python + PyQt5** that fetches real-time weather data using the **OpenWeather API**.
+<p align="center">
+  <img src="weather-app.png" width="400">
+</p>
 
 ---
 
