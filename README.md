@@ -4,13 +4,13 @@ Built by Jayvion Williams
 
 GitHub: https://github.com/jayhs0
 
-# 🌦️ Weather App (PyQt5)
+# Weather App (PyQt5)
 
 A simple desktop weather application built with **Python + PyQt5** that fetches real-time weather data using the **OpenWeather API**.
 
 ---
 
-## ✨ Features
+## Features
 
 - Search weather by city name  
 - Real-time temperature display (°F)  
@@ -23,7 +23,7 @@ A simple desktop weather application built with **Python + PyQt5** that fetches 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3  
 - PyQt5 (GUI)  
@@ -32,7 +32,7 @@ A simple desktop weather application built with **Python + PyQt5** that fetches 
 
 ---
 
-## 🔑 API Key Setup
+## API Key Setup
 
 This project uses the **OpenWeather API**.
 
