@@ -1,3 +1,9 @@
+## Author
+
+Built by Jayvion Williams
+
+GitHub: https://github.com/jayhs0
+
 # 🌦️ Weather App (PyQt5)
 
 A simple desktop weather application built with **Python + PyQt5** that fetches real-time weather data using the **OpenWeather API**.
@@ -39,9 +45,3 @@ Open `config.py` and add your key:
 
 ```python
 API_KEY = "your_api_key_here"
-
-## Author
-
-Built by Jayvion Williams
-
-GitHub: https://github.com/jayhs0
