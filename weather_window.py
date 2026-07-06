@@ -9,9 +9,9 @@ from weather_utils import kelvin_to_fahrenheit
 class WeatherApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.city_label = QLabel("Enter city name: ", self)
+        self.city_label = QLabel("Search City: ", self)
         self.city_input = QLineEdit(self)
-        self.get_weather_button = QPushButton("Get Weather", self)
+        self.get_weather_button = QPushButton("Find Weather", self)
         self.temperature_label = QLabel(self)
         self.emoji_label = QLabel(self)
         self.description_label = QLabel(self )
