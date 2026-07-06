@@ -40,6 +40,8 @@ Open `config.py` and add your key:
 ```python
 API_KEY = "your_api_key_here"
 
-Author
+## Author
 
-Built by Jay'vion Williams
+Built by **Jay'vion Williams**
+
+GitHub: https://github.com/jayhs0
